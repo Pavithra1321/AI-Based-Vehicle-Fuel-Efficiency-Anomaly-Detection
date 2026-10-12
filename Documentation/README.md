@@ -8,11 +8,9 @@
 
 **Project Type:** Data Analysis and Exploratory Data Analysis (EDA)
 
-**Submitted by:** [Your Name]
+**Submitted by:**  S. PAVITHRA
 
 **Course:** Artificial Intelligence and Machine Learning
-
-**Trainer Name:** [Trainer Name]
 
 **Tools Used:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 

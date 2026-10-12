@@ -96,12 +96,9 @@ The dataset includes variables such as:
 | Adjusted_City_MPG | Adjusted city fuel-efficiency measurement |
 | Adjusted_Highway_MPG | Adjusted highway fuel-efficiency measurement |
 
-**Dataset source:** [Insert the actual dataset source URL used in your project.]
-
-**Number of records analysed:** [Enter the actual row count from your notebook.]
-
-**Number of columns analysed:** [Enter the actual column count from your cleaned dataset.]
-
+**Dataset source:**  California Open Data — Vehicle Fuel Economy
+**Number of records analysed:**  2000 rows
+**Number of columns analysed:**   17 columns
 The exact record and column counts should be taken from the final dataset used in the notebook.
 
 ---
